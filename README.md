@@ -1,6 +1,5 @@
 # Hi there! 👋
 
-## 👨‍🔬 About Me
 I am a PhD student in the Department of Chemistry and Biochemistry at the **University of California, Merced**, working under the supervision of **Dr. Christine Isborn**. My research focuses on **computing excitonic couplings of chromophores in complex environments**, which plays a crucial role in electronic energy transfer processes.
 
 I hold a **BS-MS Dual Degree** in Chemical Sciences from the **Indian Institute of Science Education and Research (IISER), Odisha, India**.
@@ -24,24 +23,12 @@ I hold a **BS-MS Dual Degree** in Chemical Sciences from the **Indian Institute 
 
 ---
 
-## 🎤 Presentations & Conferences
-- **Poster Presentation**: Towards computing excitonic couplings of chromophores in complex environments, UC Merced (July 2024)
-- **West Coast Theoretical Chemistry (WCTC) Meeting** (May 2024)
-- **Vigyan Jyoti Shivir (VIJYOSHI) & NIUS programs** (IISc & HBCSE, India)
-
----
-
 ## 💻 Skills
 ### Programming & Tools:
 - **Languages**: Python, C, C++, Bash, Fortran, LaTeX
 - **Software**: Gaussian, TeraChem, AMBER, VMD
 
-### Soft Skills:
-- Leadership, Teamwork, Scientific Communication
-
 ---
 
 ## 📫 Connect with Me
 - 📧 Email: sadhikari4@ucmerced.edu
-
-Feel free to connect and collaborate on research projects! 🚀
