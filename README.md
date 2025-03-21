@@ -14,15 +14,6 @@ I hold a **BS-MS Dual Degree** in Chemical Sciences from the **Indian Institute 
 
 ---
 
-## 📚 Research Projects
-- **Computing excitonic couplings of chromophores in complex environments** (UC Merced)
-- **Intermolecular interactions in fullerenes using semi-empirical models** (TIFR Mumbai)
-- **Phase behavior of liquids using Classical Equations of State** (BARC Mumbai)
-- **Ground state energy calculation of H₂ using Hartree-Fock method**
-- **Machine Learning Applications**: MNIST handwritten digit classification, Titanic dataset analysis
-
----
-
 ## 💻 Skills
 ### Programming & Tools:
 - **Languages**: Python, C, C++, Bash, Fortran, LaTeX
