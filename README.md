@@ -1,4 +1,4 @@
-# Hi there! I'm Sayan Adhikari 👋
+# Hi there! 👋
 
 ## 👨‍🔬 About Me
 I am a PhD student in the Department of Chemistry and Biochemistry at the **University of California, Merced**, working under the supervision of **Dr. Christine Isborn**. My research focuses on **computing excitonic couplings of chromophores in complex environments**, which plays a crucial role in electronic energy transfer processes.
