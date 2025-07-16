@@ -7,9 +7,9 @@ I hold a **BS-MS Dual Degree** in Chemical Sciences from the **Indian Institute 
 
 ## 🔬 Research Interests
 - **Quantum Chemistry**: Excitonic couplings, electronic energy transfer
-- **Computational Chemistry**: Density Functional Theory (DFT), Molecular Dynamics
+- **Computational Chemistry**: Electronic Structure Theory, Density Functional Theory, Molecular Dynamics
 - **Machine Learning in Chemistry**: Neural networks for molecular properties prediction
-- **Molecular Simulations**: Intermolecular interactions, phase behavior
+- **Molecular Simulations**: Intermolecular interactions, Energy Transfer
 
 
 
