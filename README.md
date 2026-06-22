@@ -25,7 +25,7 @@
 
 I am a PhD student in the [Isborn Group](https://sites.ucmerced.edu/cisborn/) at the
 **University of California, Merced**, supervised by **Dr. Christine Isborn**. My research
-centers on **computing excitonic couplings of chromophores in complex environments** — the
+centers on **computing excitonic couplings of chromophores in complex environments** the
 electronic interactions that govern electronic energy transfer (EET) in light-harvesting
 systems and organic optical materials.
 
